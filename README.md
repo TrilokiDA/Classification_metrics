@@ -1,6 +1,15 @@
 # Classification_metrics
 
 **Dataset** can be download from https://www.kaggle.com/uciml/pima-indians-diabetes-database
+* *Pregnancies:- Number of times pregnant*
+* *Glucose:- Plasma glucose concentration a 2 hours in an oral glucose tolerance test*
+* *BloodPressure:- Diastolic blood pressure (mm Hg)*
+* *SkinThickness:- Triceps skin fold thickness (mm)*
+* *Insulin:- 2-Hour serum insulin (mu U/ml)*
+* *BMI:- Body mass index (weight in kg/(height in m)^2)*
+* *DiabetesPedigreeFunction:- Diabetes pedigree function*
+* *Age:- Age (years)*
+* *Outcome:- Class variable (0 or 1)*
 
 ## Highlight some basic points with code like:
 * Classification accuracy: percentage of correct predictions
@@ -16,4 +25,4 @@
   * **Precision:** When a positive value is predicted, how often is the prediction correct?
 * **Adjusting the classification threshold**
 * **ROC Curves and Area Under the Curve (AUC)**
-  * AUC is the percentage of the ROC plot that is underneath the curve:
+  * AUC is the percentage of the ROC plot that is underneath the curve.
